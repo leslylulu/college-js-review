@@ -1,0 +1,11 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ccc;
+}
+
+main {
+    background-color: #fff;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
